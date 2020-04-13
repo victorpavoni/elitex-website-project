@@ -11,10 +11,10 @@ Tecnologias usadas(Used technology):
 * JS (FORM VALIDATION).
 
 # Preview
-##First part
+## First part
 ![elitex1](image/git/elitex1.jpg)
 
-##Second part
+## Second part
 ![elitex2](image/git/elitex2.jpg)
 
 
