@@ -25,3 +25,9 @@ Tecnologias usadas(Used technology):
 ```
 [EN-US]Unfortunately its dont have responsiveness
 ```
+```
+[PT-BR] Esse foi meu primeiro website e foi feito em meia-hora, por isso o site ficou mal feito;
+```
+```
+[EN-US] This was my first website and was done in half an hour, so the site was badly done
+```
