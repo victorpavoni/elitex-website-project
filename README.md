@@ -13,7 +13,7 @@ Tecnologias usadas(Used technology):
 # Preview
 
 ![elitex1](image/git/elitex1.jpg)
-![elitex2](image/git/elitex1.jpg)
+![elitex2](image/git/elitex2.jpg)
 # Comments
 ```
 [PT-BR]Inflezimente nao possui total responsividade
