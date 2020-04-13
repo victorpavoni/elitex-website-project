@@ -20,7 +20,7 @@ Tecnologias usadas(Used technology):
 
 # Comments
 ```
-[PT-BR]Inflezimente nao possui total responsividade
+[PT-BR]Infelizmente nao possui total responsividade
 ```
 ```
 [EN-US]Unfortunately its dont have responsiveness
